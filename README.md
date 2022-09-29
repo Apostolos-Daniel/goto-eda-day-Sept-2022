@@ -1,5 +1,5 @@
 # goto-eda-day-talk-Sept-2022
-A talk about EDA at cinch alongside Emily Shea from AWS
+A talk about EDA at cinch alongside Emily Shea from AWS at [GOTO; EDA Day Sept 1st 2022](https://gotoldn.com/2022-eda-aws-day/schedule?date=2022-09-01)
 
 ## Abstract 
 
